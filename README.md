@@ -18,5 +18,3 @@ def largestPower(n, p):
 n = 2022; p = 7
 print ("The largest power of %d that divides %d! is %d\n"%
 								(p, n, largestPower(n, p)))
-		
-# This code is contributed by Shreyanshi Arun.
